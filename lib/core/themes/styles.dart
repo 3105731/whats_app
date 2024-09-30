@@ -1,4 +1,4 @@
-import 'package:chat_app_intern/core/themes/colors.dart';
+import 'package:chat_app_intern/core/themes/color_app.dart';
 import 'package:flutter/material.dart';
 
 abstract class Styles {
