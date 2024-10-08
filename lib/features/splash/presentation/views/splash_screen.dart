@@ -1,9 +1,9 @@
 import 'dart:io';
 import 'package:chat_app_intern/core/themes/strings.dart';
 import 'package:flutter/material.dart';
-import '../../core/constants/asset_images.dart';
-import '../../core/themes/styles.dart';
-import '../login/login_screen.dart';
+import '../../../../core/constants/asset_images.dart';
+import '../../../../core/themes/styles.dart';
+import '../../../login/login_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 AppStrings.english['AppName']!,
                 style: Styles.textStyle10,
               ),
-              const SizedBox(height: 15),
+              const SizedBox(height: 150),
               Text(
                 AppStrings.english['SplashDescribe']!,
                 style: Styles.textStyle24,
