@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # whats_up_app
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # whats_app
 >>>>>>> 28d80d25c233049c325e774288bac1b6df8f6350
+=======
+# whats_app
+>>>>>>> 24680b9a9b4efd04194103ce4c9b6e029eacd888
